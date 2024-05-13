@@ -96,6 +96,8 @@ La interpolación lineal es útil cuando buscamos un valor entre puntos dados. S
 
 ![image](https://github.com/xlmdn/Problemario_T5/assets/147437527/42b2838f-9da8-4366-abcb-bbdd97c9e316)
 
+![alt text](image.png)
+
 
 
 ## Método Cuadratico
