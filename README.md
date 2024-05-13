@@ -125,7 +125,7 @@ El matemático Lagrange desarrolló una fórmula para hallar la función interpo
 ## Implementación cuadratico
 
 
-  public static double interpolacionCuadratica(double x0, double x1, double x2, double y0, double y1, double y2, double x) {
+     public static double interpolacionCuadratica(double x0, double x1, double x2, double y0, double y1, double y2, double x) {
         double L0 = ((x - x1) * (x - x2)) / ((x0 - x1) * (x0 - x2));
         double L1 = ((x - x0) * (x - x2)) / ((x1 - x0) * (x1 - x2));
         double L2 = ((x - x0) * (x - x1)) / ((x2 - x0) * (x2 - x1));
